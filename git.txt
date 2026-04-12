@@ -1,0 +1,25 @@
+>>>> Comandos git <<<<
+
+comando para saber en que rama estoy
+git branch
+
+comando para cambiar de rama
+git switch nombre-rama
+
+comando para agregar 
+git add nombre
+
+comando para saber el status
+git status
+
+comando para preparar lo que se va a sabir y su comentario
+git commit -m ""
+
+conando para terminar de subir
+git push
+
+comando para descargar con URL:
+curl -O URL
+
+
+

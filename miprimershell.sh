@@ -70,6 +70,7 @@ pwd
 echo "Archivos:"
 ls -lrth
 
+<<<<<<< HEAD
 
 pausar
 
@@ -81,7 +82,4 @@ do
 
 	echo "Numero: $i"
 done
-
-
-
 
